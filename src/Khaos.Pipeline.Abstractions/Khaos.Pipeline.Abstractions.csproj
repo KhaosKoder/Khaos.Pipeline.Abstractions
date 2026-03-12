@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <IsPackable>true</IsPackable>
-    <PackageId>KhaosCode.Pipeline.Abstractions</PackageId>
+    <PackageId>KhaosKode.Pipeline.Abstractions</PackageId>
     <Description>Core abstractions for composable data transformation pipelines with batch processing support.</Description>
     <PackageTags>pipeline;processing;transformation;batch;abstractions</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
